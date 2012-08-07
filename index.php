@@ -51,7 +51,12 @@
 	</style>
 </head>
 <body>
-<h1>QapTcha Plugin</h1>
+
+<ul>
+	<li>Full documentation on <a href="http://www.myjqueryplugins.com/QapTcha">MyjQueryPlugins.com/QapTcha</a></li>
+	<li>Live demonstration on <a href="http://www.myjqueryplugins.com/QapTcha/demo">QapTcha demonstration page</a></li>
+</ul>
+<h1>QapTcha plugin</h1>
 
 <?php
 
